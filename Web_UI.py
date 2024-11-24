@@ -71,20 +71,13 @@ if st.button ('Predict'):
 
 
 
+# '''
+# Columns:
+# 'employee_id', 'department', 'region', 'education', 'gender',
+#        'recruitment_channel', 'no_of_trainings', 'age', 'previous_year_rating',
+#        'length_of_service', 'KPIs_met >80%', 'awards_won?',
+#        'avg_training_score'
 
-
-
-
-
-
-
-'''
-Columns:
-'employee_id', 'department', 'region', 'education', 'gender',
-       'recruitment_channel', 'no_of_trainings', 'age', 'previous_year_rating',
-       'length_of_service', 'KPIs_met >80%', 'awards_won?',
-       'avg_training_score'
-
-Streamlit run command:
-streamlit run Web_UI.py
-'''
+# Streamlit run command:
+# streamlit run Web_UI.py
+# '''
